@@ -95,7 +95,7 @@ The Spectral Isolation Equalizer offers several unique advantages that distingui
 
 ## Implementation and Use Cases
 
-The Spectral Isolation Equalizer can be seamlessly integrated into a range of audio production environments, including digital audio workstations (DAWs), mixing consoles, and recording software. It functions as a plugin or standalone application, providing sound engineers with an intuitive interface to control spectral isolation. Use cases encompass scenarios where tracks with overlapping spectral content, such as vocals and instruments, compete for space. The equalizer empowers sound engineers to create clearer, more defined audio mixes.
+The Spectral Isolation Equalizer can be seamlessly integrated into a range of audio production environments, including digital audio workstations (DAWs), (digitally controlled) mixing consoles, and recording software. It functions as a plugin or standalone application, providing sound engineers with an intuitive interface to control spectral isolation. Use cases encompass scenarios where tracks with overlapping spectral content, such as vocals and instruments, compete for space. The equalizer empowers sound engineers to create clearer, more defined audio mixes.
 
 ## Conclusion
 
